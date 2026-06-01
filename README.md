@@ -19,5 +19,5 @@ Hi, I'm Yuchen!<br>
 -🌱 Master's student at the University of Michigan, School of Information<br>
 -🤔 Major in Big Data Analytics, Electrical and Computer Engineering<br>
 -💬 Focus on Machine Learning, Natural Language Processing<br>
--📫 Reach me via: ylyuchen@umich.edu
+-📫 Reach me via: ylyuchen@umich.edu<br>
 -⚡ Trying to become a morning person after years of being a night owl :)
