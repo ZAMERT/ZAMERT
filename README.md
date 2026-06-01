@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Yuchen!<br>
+Hi there, I'm Yuchen!<br>
 <br>
 -🌱 Master's student at the University of Michigan, School of Information<br>
--🤔 Focus on Big Data Analytics, Electrical and Computer Engineering<br>
+-🤔 Major in Big Data Analytics, Electrical and Computer Engineering<br>
+-💬 Focus on Machine Learning, Natural Language Processing<br>
 -⚡ Trying to become a morning person after years of being a night owl :)
